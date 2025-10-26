@@ -1,0 +1,1032 @@
+"label","year","month","day","region","island","side","reef","reef_joined","protection_status","latitude","longitude","habitat","transect","phylum","taxa1","taxa2","taxa3","functional_group","species","quantity"
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",2
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",86
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",3
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",2
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",76
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",84
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",44
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",42
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,NA,NA,NA,NA,"Microalgae","Cianobacterias",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,NA,NA,NA,NA,"Turf","Turf",7
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",29
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",6,NA,NA,NA,NA,"Microalgae","Cianobacterias",4
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",6,NA,NA,NA,NA,"Turf","Turf",15
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",2
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",19
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",13
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",21
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",14
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",4
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",32
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",4
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",7
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",2
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",12
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",14
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",6
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,NA,NA,NA,NA,"Microalgae","Cianobacterias",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",24
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",11
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,NA,NA,NA,NA,"Turf","Turf",4
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",8
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",4
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,NA,NA,NA,NA,"Microalgae","Cianobacterias",1
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,NA,NA,NA,NA,"Turf","Turf",7
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",4
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",38
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",3
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",21
+"ALG",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",8
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",43
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",3
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",34
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",4
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",42
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",5,NA,NA,NA,NA,"Turf","Turf",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",46
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",44
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",3
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",36
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",7
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",22
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",27
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",4
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",32
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",30
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,NA,NA,NA,NA,"Turf","Turf",7
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",3
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",22
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",20
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",3
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,NA,NA,NA,NA,"Turf","Turf",12
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",9
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",19
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,NA,NA,NA,NA,"Turf","Turf",20
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",26
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","ACA","Amphiroa sp",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,NA,NA,NA,NA,"Microalgae","Cianobacterias",1
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",10
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",4
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",7
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",3
+"ALG",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,NA,NA,NA,NA,"Turf","Turf",14
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",26
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",6
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,NA,NA,NA,NA,"Turf","Turf",2
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",9
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",29
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",7
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",28
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,NA,NA,NA,NA,"Turf","Turf",6
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",4
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",38
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",6,NA,NA,NA,NA,"Turf","Turf",5
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",9
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",39
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",12
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",29
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",34
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",3
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",33
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",3
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",44
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",27
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,NA,NA,NA,NA,"Turf","Turf",8
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",48
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,NA,NA,NA,NA,"Microalgae","Cianobacterias",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",44
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",15
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",3
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",6
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",26
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",7
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",21
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",5,NA,NA,NA,NA,"Turf","Turf",9
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",9
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",10
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",2
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,NA,NA,NA,NA,"Turf","Turf",9
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",3
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,NA,NA,NA,NA,"Turf","Turf",24
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",44
+"ALG",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",8
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",7
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",16
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",6
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",19
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",7
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",11
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Padina",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",8
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,NA,NA,NA,NA,"Erect algae","Macroalga",20
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,NA,NA,NA,NA,"Turf","Turf",7
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,NA,NA,NA,NA,"Erect algae","Macroalga",13
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,NA,NA,NA,NA,"Turf","Turf",17
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",9
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",19
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",9
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",3
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",5
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",5
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",23
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Ochrophyta","Phaeophyceae","Fucophycidae","Fucales","Corticate","Sargassum sp",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",8
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Padina",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",5
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",8
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,NA,NA,NA,NA,"Erect algae","Macroalga",28
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,NA,NA,NA,NA,"Turf","Turf",3
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",13
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",3
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",5
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,NA,NA,NA,NA,"CCA","Macroalga incrustante",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,NA,NA,NA,NA,"Erect algae","Macroalga",26
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,NA,NA,NA,NA,"Turf","Turf",3
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Chlorophyta","Ulvophyceae",NA,"Cladophorales","Foliose","Anadyomene sp",7
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",21
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",8
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",5
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Ochrophyta","Phaeophyceae","Fucophycidae","Fucales","Corticate","Sargassum sp",7
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",12
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",14
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",19
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",12
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Padina",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",5
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,NA,NA,NA,NA,"Erect algae","Macroalga",2
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,NA,NA,NA,NA,"Turf","Turf",12
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",11
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",7
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",11
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,NA,NA,NA,NA,"Turf","Turf",1
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",6
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",4
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,NA,NA,NA,NA,"Erect algae","Macroalga",15
+"ALG",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,NA,NA,NA,NA,"Turf","Turf",4
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","Erect algae","Caulerpa racemosa",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",34
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",8
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Ochrophyta","Phaeophyceae","Fucophycidae","Fucales","Corticate","Sargassum sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","Erect algae","Caulerpa racemosa",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",32
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Ochrophyta","Phaeophyceae","Fucophycidae","Fucales","Corticate","Sargassum sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",3
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",23
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",10
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",27
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,NA,NA,NA,NA,"Erect algae","Macroalga",16
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,NA,NA,NA,NA,"Turf","Turf",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",20
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,NA,NA,NA,NA,"Erect algae","Macroalga",20
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,NA,NA,NA,NA,"Turf","Turf",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",30
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",4
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",18
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",18
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",19
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,NA,NA,NA,NA,"Erect algae","Macroalga",7
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,NA,NA,NA,NA,"Microalgae","Cianobacterias",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,NA,NA,NA,NA,"Turf","Turf",7
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",32
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,NA,NA,NA,NA,"Turf","Turf",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",11
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",20
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Ochrophyta","Phaeophyceae","Fucophycidae","Fucales","Corticate","Sargassum sp",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",3
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","Erect algae","Caulerpa racemosa",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",23
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Ochrophyta","Phaeophyceae","Fucophycidae","Fucales","Corticate","Sargassum sp",3
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Chlorophyta","Ulvophyceae",NA,"Bryopsidales","ACA","Halimeda sp",3
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",10
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Foliose","Stypopodium zonale",6
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Dictyota sp",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",27
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,NA,NA,NA,NA,"CCA","Macroalga incrustante",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,NA,NA,NA,NA,"Erect algae","Macroalga",14
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Ochrophyta","Phaeophyceae","Dictyotophycidae","Dictyotales","Corticated foliose","Lobophora variegata",18
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Rhodophyta","Florideophyceae","Corallinophycidae","Corallinales","CCA","Calcarea costrosa",1
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,NA,NA,NA,NA,"CCA","Macroalga incrustante",2
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,NA,NA,NA,NA,"Erect algae","Macroalga",19
+"ALG",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,NA,NA,NA,NA,"Turf","Turf",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",12
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",9
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",5
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",5
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",7
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",5
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia lamarcki",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",5,NA,NA,NA,NA,NA,"Zoantido",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",6
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",35
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",8
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Muricea sp",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",17
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",5,"Cnidaria","Hydrozoa",NA,NA,NA,"Hydroide colonial",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja ramifcada",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",22
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",5
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",3,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella annularis",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",6
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Eunicea sp",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia ventalina",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Stephanocoenia intersepta",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",21
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja ramificada",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",3
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",12
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,NA,NA,NA,NA,NA,"Esqueleto",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",8
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",5
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia ventalina",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",5
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",16
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",23
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja masiva",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella annularis",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Stephanocoenia intersepta",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",7
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia ventalina",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",4
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",12
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",2
+"INV",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia flabellum",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",6
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",6
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Mycetophyllia aliciae",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",8
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",5
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",6
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",14
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",11
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,NA,NA,NA,NA,NA,"Esqueleto",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",7
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","Anemona","Briareum asbestinum",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Porifera","Demospongiae","Heteroscleromorpha","Haplosclerida","porifera","Niphates sp",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia fragilis",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",7
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",6
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",6
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja gris incrustante",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",11
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",10
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Stephanocoenia intersepta",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja masiva",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",11
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",5
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",5
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",5
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea radians",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",7
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",8
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",5
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Stephanocoenia intersepta",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",21
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,NA,"Octocoral incrustante",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante negra",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular verde",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Dichocoenia stokesii",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",5
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia ventalina",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,"Porifera","Demospongiae","Heteroscleromorpha","Agelasida","porifera","Agelas sp",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",8
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia flabellum",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Muricea muricata",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Plexaura flexuosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",15
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",4
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",26
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,NA,"Octocoral incrustante",2
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",3
+"INV",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular verde",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia lamarcki",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",9
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,"Porifera","Demospongiae",NA,NA,"porifera","Esponja cafe",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,NA,NA,NA,NA,NA,"Esqueleto",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",6
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,NA,"Octocoral incrustante",7
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",10
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Stephanocoenia intersepta",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante naranja",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",6
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia lamarcki",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",5
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",6
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",3,NA,NA,NA,NA,NA,"Esqueleto",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",6
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",5
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",6
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",8
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,NA,"Octocoral incrustante",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja vaso",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",5
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",7
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,NA,"Octocoral incrustante",6
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Plexaura homomalla",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Porifera","Demospongiae","Heteroscleromorpha","Haplosclerida","porifera","Callyspongia",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia strobilina",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,"Porifera","Demospongiae",NA,NA,"porifera","Esponja cafe",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia flabellum",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Porifera","Demospongiae","Heteroscleromorpha","Haplosclerida","porifera","Xestospongia muta",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,"Porifera","Demospongiae","Heteroscleromorpha","Poecilosclerida","porifera","Clathria",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",20
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",13
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",22
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular amarilla",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia flabellum",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Gorgonia ventalina",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Muricea muricata",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",3
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,NA,NA,NA,NA,NA,"Zoantido",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",4
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",17
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja masiva",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",5
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Stephanocoenia intersepta",1
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",2
+"INV",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",8
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",6
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",7
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",5
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",7
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",11
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,NA,NA,NA,NA,NA,"Esqueleto",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites divaricata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,NA,NA,NA,NA,NA,"Zoantido",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Espoja tubular",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",5
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,NA,NA,NA,NA,NA,"Zoantido",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Plexaura flexuosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",1,"Porifera","Demospongiae",NA,NA,"porifera","Esponja cafe",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",5
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",6
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",11
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis decactis",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",14
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",6
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,NA,NA,NA,NA,NA,"Esqueleto",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis auretenra",5
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis decactis",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",6
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",9
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,"Porifera","Demospongiae",NA,NA,"porifera","Esponja cafe",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",7
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",13
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",9
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,NA,NA,NA,NA,NA,"Esqueleto",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites divaricata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites porites",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",5
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",8
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",5
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",7
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja masiva",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",6,NA,NA,NA,NA,NA,"Zoantido",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis auretenra",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis decactis",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",7
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",8
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Porifera","Demospongiae","Heteroscleromorpha","Clionaida","porifera","Spheciospongia",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,"Porifera","Demospongiae",NA,NA,"porifera","Esponja cafe",6
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",10
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",9
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,NA,NA,NA,NA,NA,"Esqueleto",5
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",4
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Stephanocoenia intersepta",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",9
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",1
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",3
+"INV",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,NA,NA,NA,NA,NA,"Zoantido",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",9
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Porifera","Demospongiae","Heteroscleromorpha","Haplosclerida","porifera","Xestospongia muta",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",4
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,"Porifera","Demospongiae","Heteroscleromorpha","Haplosclerida","porifera","Xestospongia muta",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Porifera","Demospongiae","Keratosa","Dictyoceratida","porifera","Ircinia sp",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",4
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja incrustante",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja masiva",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja vaso gigante",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites porites",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",5
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Mycetophyllia aliciae",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Mycetophyllia lamarckiana",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","Anemona","Briareum asbestinum",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,"Porifera","Demospongiae",NA,NA,"porifera","Esponja cafe",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,NA,NA,NA,NA,NA,"Zoantido",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",5
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",5
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,NA,NA,NA,NA,NA,"Esqueleto",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis formosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",8
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora alcicornis",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja masiva",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,"Porifera","Demospongiae",NA,NA,"porifera","Esponja vaso gigante",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia lamarcki",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",13
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",5
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",1,NA,NA,NA,NA,NA,"Zoantido",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",9
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",33
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,NA,NA,NA,NA,NA,"Esqueleto",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",6
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",4
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Porites astreoides",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Plexaura flexuosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Plexaura homomalla",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,"Porifera","Demospongiae",NA,NA,"porifera","Esponja cafe",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Madracis decactis",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Colpophyllia natans",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Diploria labyrinthiformis",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",5
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Hexacorallia","Zoantharia","massive coral","Palythoa caribaeorum",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Antillogorgia americana",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Plexaura flexuosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","fan coral","Pseudoplexaura sp",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Anthozoa","Octocorallia","Alcyonacea","massive coral","Erythropodium caribaeorum",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Cnidaria","Hydrozoa","Hydroidolina","Anthoathecata","ramified","Millepora complanata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Eusmilia fastigiata",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Meandrina meandrites",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella franksi",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Pseudodiploria strigosa",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",27
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,"Porifera","Demospongiae","Verongimorpha","Verongiida","porifera","Aplysina sp",4
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",12
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","digitate coral","Porites furcata",3
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Agaricia agaricites",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Montastraea cavernosa",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Orbicella faveolata",2
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Hexacorallia","Scleractinia","massive coral","Siderastrea siderea",1
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Cnidaria","Anthozoa","Octocorallia",NA,"fan coral","Octocoral",10
+"INV",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",6,"Porifera","Demospongiae",NA,NA,"porifera","Esponja tubular",1
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,NA,NA,NA,NA,NA,"Laja",1
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",1,NA,NA,NA,NA,NA,"Pedaceria",7
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,NA,NA,NA,NA,NA,"Laja",3
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",2,NA,NA,NA,NA,NA,"Pedaceria",17
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",3,NA,NA,NA,NA,NA,"Pedaceria",24
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,NA,NA,NA,NA,"Sand","Arena",23
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",34
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Leeward","Cordillera",1,"NTZ",22.39575,-89.706083,"Coral",6,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,NA,NA,NA,NA,"Sand","Arena",4
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",2,NA,NA,NA,NA,"Sand","Arena",33
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",5,NA,NA,NA,NA,"Sand","Arena",5
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",3,NA,NA,NA,NA,"Sand","Arena",12
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",1,NA,NA,NA,NA,"Sand","Arena",9
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Caribbean",2,"MPA",22.384533,-89.625483,"Coral",6,NA,NA,NA,NA,"Sand","Arena",25
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,NA,NA,NA,NA,"Sand","Arena",34
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",2
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",2,NA,NA,NA,NA,NA,"Laja",2
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",5,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",6,NA,NA,NA,NA,"Sand","Arena",5
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",1,NA,NA,NA,NA,NA,"Laja",1
+"SUB",2019,8,7,"Alacranes","Arrecife Alacranes","Windward","Tweed",3,"MPA",22.546017,-89.661001,"Coral",3,NA,NA,NA,NA,"Sand","Arena",2
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",4,NA,NA,NA,NA,"Sand","Arena",2
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",5,NA,NA,NA,NA,"Sand","Arena",5
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",1,NA,NA,NA,NA,NA,"Laja",1
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",3,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Arcos",5,"NTZ",22.587133,-89.753317,"Coral",6,NA,NA,NA,NA,"Sand","Arena",6
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,NA,NA,NA,NA,"Sand","Arena",10
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",5
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,NA,NA,NA,NA,NA,"Laja",3
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",2,NA,NA,NA,NA,NA,"Pedaceria",2
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",3,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,NA,NA,NA,NA,"Sand","Arena",6
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",5,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,NA,NA,NA,NA,"Sand","Arena",7
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",1,NA,NA,NA,NA,NA,"Laja",2
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Leeward","Sardinas",4,"NTZ",22.505367,-89.795701,"Coral",6,NA,NA,NA,NA,"Sand","Arena",8
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",4,NA,NA,NA,NA,"Sand","Arena",8
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",3,NA,NA,NA,NA,"Sand","Arena",25
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",5,NA,NA,NA,NA,"Sand","Arena",3
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",1,NA,NA,NA,NA,NA,"Laja",3
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",2,NA,NA,NA,NA,NA,"Laja",1
+"SUB",2019,8,8,"Alacranes","Arrecife Alacranes","Windward","Vapor",3,"MPA",22.539501,-89.654101,"Coral",6,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",2,NA,NA,NA,NA,NA,"Laja",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,NA,NA,NA,NA,"Sand","Arena",4
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",2
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",5,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Alacranes 7",4,"NTZ",22.505151,-89.796617,"Coral",6,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",4,NA,NA,NA,NA,"Sand","Arena",9
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",3,NA,NA,NA,NA,"Sand","Arena",9
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",5,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",6,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",1,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Leeward","Piedra Ballena",6,"NTZ",22.567701,-89.779633,"Coral",2,NA,NA,NA,NA,NA,"Pedaceria",2
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,NA,NA,NA,NA,"Sand","Arena",7
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",3,NA,NA,NA,NA,"Sand","Arena",5
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",2,NA,NA,NA,NA,NA,"Laja",4
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",6,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,9,"Alacranes","Arrecife Alacranes","Windward","Tata y Rafa",3,"MPA",22.553851,-89.653701,"Coral",1,NA,NA,NA,NA,NA,"Laja",1
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",2
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",2,NA,NA,NA,NA,NA,"Laja",2
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",3,NA,NA,NA,NA,NA,"Pedaceria",10
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",5,NA,NA,NA,NA,"Sand","Arena",3
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte",7,"OA",23.242417,-88.714417,"Coral",6,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,NA,NA,NA,NA,"Sand","Arena",4
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",7
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Bajos del norte 2",7,"OA",23.242433,-88.714417,"Coral",3,NA,NA,NA,NA,"Sand","Arena",2
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,NA,NA,NA,NA,NA,"Laja",6
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",2,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,NA,NA,NA,NA,"Sand","Arena",4
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",1,NA,NA,NA,NA,NA,"Laja",2
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,NA,NA,NA,NA,"Sand","Arena",5
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",3,NA,NA,NA,NA,NA,"Pedaceria",3
+"SUB",2019,8,10,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro",8,"OA",23.261683,-88.695417,"Coral",5,NA,NA,NA,NA,"Sand","Arena",1
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",1,NA,NA,NA,NA,NA,"Pedaceria",3
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,NA,NA,NA,NA,"Sand","Arena",2
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",2,NA,NA,NA,NA,NA,"Pedaceria",3
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,NA,NA,NA,NA,"Sand","Arena",8
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",3,NA,NA,NA,NA,NA,"Pedaceria",4
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,NA,NA,NA,NA,"Sand","Arena",3
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",5,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,NA,NA,NA,NA,"Sand","Arena",6
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Estadio",9,"OA",23.198917,-88.974133,"Coral",6,NA,NA,NA,NA,NA,"Pedaceria",4
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,NA,NA,NA,NA,"Sand","Arena",3
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,NA,NA,NA,NA,NA,"Laja",1
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",2,NA,NA,NA,NA,NA,"Pedaceria",5
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,NA,NA,NA,NA,"Sand","Arena",5
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",3,NA,NA,NA,NA,NA,"Pedaceria",8
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,NA,NA,NA,NA,"Sand","Arena",9
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",4,NA,NA,NA,NA,NA,"Pedaceria",12
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,NA,NA,NA,NA,"Sand","Arena",9
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Final",10,"OA",23.171183,-88.951301,"Coral",5,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",4,NA,NA,NA,NA,"Sand","Arena",2
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,NA,NA,NA,NA,NA,"Laja",3
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",1,NA,NA,NA,NA,NA,"Pedaceria",1
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",2,NA,NA,NA,NA,NA,"Pedaceria",4
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",3,NA,NA,NA,NA,"Sand","Arena",3
+"SUB",2019,8,11,"Bajo del Norte","Bajos del Norte","Bajos","Paso del zorro 2",8,"OA",23.261683,-88.695417,"Coral",5,NA,NA,NA,NA,"Sand","Arena",3
