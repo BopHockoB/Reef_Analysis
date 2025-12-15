@@ -12,13 +12,12 @@ Predict reef health / ecological condition class
 Define a categorical label based on cover, biomass, abundance.
 '''
 
-import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
 
 
-path = "./Alacranes Reef and Bajos del Norte reef ecological assesment"
+path = "../Alacranes Reef and Bajos del Norte reef ecological assesment"
 filename_read_fish = os.path.join(path, "fish_data.csv")
 filename_read_algae = os.path.join(path, "invertebrate_algae_data.csv")
 
